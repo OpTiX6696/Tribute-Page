@@ -1,0 +1,22 @@
+#main {
+    width: 80vw;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+img {
+    width: 100%;
+}
+
+#img-div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+p {
+    margin: 40px auto;
+}
+
+li {
+    margin: 15px 0;
+}
